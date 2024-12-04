@@ -3,4 +3,5 @@
 <h2>Currently working on a toy <a href="https://github.com/MiksuNy/Path_tracer">path tracer</a> for fun and learning.</h2>
 <div style='float: center'>
   <img style='width: 600px' src="images/sponza.png"></img>
+  <p>Low poly sponza scene with fully diffuse materials rendered in my path tracer</p>
 </div>

@@ -4,4 +4,4 @@
 <a href="https://github.com/testaustime/">
     <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=MiksuNy&theme=maroongold&langs_count=10&border_radius=10&hide_title=false&hide_border=false&line_height=15&hide_progress=false&custom_title=Time%20wasted"/>
 </a>
-![MiksuNy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiksuNy)](https://github.com/anuraghazra/github-readme-stats)
+![[MiksuNy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiksuNy)](https://github.com/anuraghazra/github-readme-stats)
